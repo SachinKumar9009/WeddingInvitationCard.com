@@ -157,7 +157,7 @@ body {
 
 .venue1 {
 	width: auto;
-	/* width: 70%; */
+	
 	height: auto;
 	background-color: #674ea7;
 	border-radius: 16px;
@@ -173,7 +173,7 @@ body {
 }
 
 .venue2{
-	/* width: auto; */
+	
 	width: 90%;
 	height: auto;
 	background-color: rgb(239, 223, 243);
@@ -185,7 +185,7 @@ body {
 }
 
 .venue {
-	/* width: auto; */
+
 	width: 70%;
 	height: auto;
 	background-color: #674ea7;
@@ -196,26 +196,17 @@ body {
 	margin-right: 8px;
 }
 
-.map
+/* .map
 {
 	/* width: 70%;
 	height: 70%; */
-	background-color: #674ea7;
-	border-radius: 16px;
+	/* background-color: #674ea7;
+	border-radius: 16px; */
 	/* text-align: center; */
-	color: #fff;
+	/* color: #fff;
 	padding: 8px;
-	margin-right: 8px;
-}
-
-.venue video{
-	width: 	100%;
-}
-
-/* .venue a {
-	text-decoration: none;
-	color: #fff;
-} */
+	/* margin-right: 8px; 
+}*/ 
 
 .container {
 	display: grid;
@@ -353,4 +344,20 @@ a {
     padding: 8px;
     background-color: #674ea7;
     border-radius: 8px;
+}
+.venu {
+	width: auto;
+	height: auto;
+	background-color: #674ea7;
+	border-radius: 16px;
+	text-align: center;
+	color: #fff;
+	padding: 8px;
+	margin-right: 0px;
+}
+.venu video{
+	width: 	100%;
+}
+.venu img{
+	width: 100%;
 }
